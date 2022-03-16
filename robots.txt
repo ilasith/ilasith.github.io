@@ -1,0 +1,4 @@
+Sitemap: https://ilasith.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
